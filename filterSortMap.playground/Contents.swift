@@ -1,3 +1,11 @@
+"""
+Summary: This program is to highlight knowledge of Swift's filter, sorted, and map function calls.
+
+Input: Array of integers called "luckyNumbers"
+
+Output: Various strings of the array filtered, sorted, mapped, and all of the above. 
+"""
+
 import Cocoa
 import SwiftUI
 
